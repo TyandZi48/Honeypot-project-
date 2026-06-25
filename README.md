@@ -1,7 +1,7 @@
  Honeypot Detection Lab
 
 ## Project Overview
-A honeypot is a deliberately vulnerable system designed to lure attackers and log their activity. This project deploys a honeypot using OpenCanary to simulate network services, monitor unauthorized access attempts, and analyze attacker behavior — core skills used in Security Operations Center (SOC) environments.
+A honeypot is a deliberately vulnerable system designed to lure attackers and log their activity. This project deploys a honeypot using OpenCanary to simulate network services, monitor unauthorized access attempts, and analyze attacker behavior core skills used in Security Operations Center (SOC) environments.
 
 ## Tools Used
 - **OpenCanary** - Open source honeypot framework
