@@ -28,3 +28,14 @@ A honeypot is a deliberately vulnerable system designed to lure attackers and lo
 - How to deploy and configure OpenCanary in a cloud environment
 - How to read and interpret security logs
 - How network ports and services work in a live environment
+
+- ## Screenshots
+
+### Installation
+![Installing OpenCanary](honeypot%20project%20installing%20Canary%20.png)
+
+### Honeypot Running & Logs
+![Canary Running](honeypot%20project%20running%20canary.png)
+
+### Log Analysis - Multiple Sessions
+![Log Analysis](Screenshot%202026-06-25%20202057%20honeypot%20.png)
